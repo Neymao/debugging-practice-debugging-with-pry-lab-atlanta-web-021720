@@ -16,7 +16,7 @@ def turtle_traits(turtles)
     if attribute == traits;
       data.each do |traits|
         if turtles == traits;
-          return turtlestraits:
+          return turtlestraits;
     end
   end
 end 
