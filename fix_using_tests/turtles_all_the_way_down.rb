@@ -13,10 +13,10 @@ def turtle_traits(turtles)
   
   turtles.each do |turtles|
     turtles.each do |attribute|
-    if attribute == traits:
+    if attribute == traits;
       data.each do |traits|
-        if turtles == [traits:]
-          return turtles[traits:]
+        if turtles == traits:
+          return turtlestraits:
     end
   end
 end 
