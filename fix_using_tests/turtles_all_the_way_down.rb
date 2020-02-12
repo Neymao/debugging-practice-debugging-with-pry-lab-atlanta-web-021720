@@ -9,17 +9,16 @@ def turtles
     ]
 end
 
-d
+
   
-  turtles.each do |turtles|
-    turtles.each do |attribute|
-    if attribute == traits;
-      data.each do |traits|;
-        
+  
+  
+def turtle_traits(turtles)
+  turtles.map do |turtle|
+    turtle[:traits].each do |trait|
+      trait
     end
   end
+end
+  turtles.map{ |turtle| turtle[:traits] }
 end 
-    
-    end
-  
-
