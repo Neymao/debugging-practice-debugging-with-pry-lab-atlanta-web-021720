@@ -13,6 +13,7 @@ def turtle_traits(turtles)
   
   turtles.each do |turtles|
     if turtles[traits:] = traits
+    end
       return turtles[name:][traits:]
     
     end
