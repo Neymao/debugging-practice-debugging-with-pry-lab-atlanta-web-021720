@@ -12,17 +12,21 @@ end
 def turtle_traits(turtles)
   
   turtles.each do |turtles|
-    binding.pry
-    if turtles traits = traits
+    turtles.each do |attribute|
+    if attribute == traits:
+      data.each do |traits|
+        if turtles == [traits:]
+          return turtles[traits:]
     end
-      return turtles[name:][traits:]
+  end
+end 
     
     end
   end
 end
 
 
-
+d
 
 
 
