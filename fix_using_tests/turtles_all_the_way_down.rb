@@ -1,4 +1,4 @@
-require 'pry'
+require 'pef turtle_traits(turtles)ry'
 
 def turtles
     [
@@ -9,7 +9,7 @@ def turtles
     ]
 end
 
-def turtle_traits(turtles)
+d
   
   turtles.each do |turtles|
     turtles.each do |attribute|
