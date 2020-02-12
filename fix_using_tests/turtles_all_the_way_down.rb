@@ -14,7 +14,7 @@ def turtle_traits(turtles)
   turtles.each do |turtles|
     turtles.each do |attribute|
     if attribute == traits;
-      data.each do |traits|
+      data.each do |traits|;
         
     end
   end
